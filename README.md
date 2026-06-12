@@ -1,3 +1,5 @@
+> **Moved:** This guide is now bundled in [netsuite-accounting-toolkit](https://github.com/tmarsteller/netsuite-accounting-toolkit) (`docs/claude-netsuite-admin-setup-guide.pdf`), alongside the NetSuite accounting tools it supports. This repo is archived.
+
 # Claude × NetSuite MCP Connector — Setup Guide
 
 Step-by-step admin guide for connecting Claude to NetSuite via the MCP
